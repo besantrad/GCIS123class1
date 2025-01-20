@@ -22,3 +22,4 @@ Date:   Fri Jan 17 10:02:53 2025 +0400
 
     new file
 hello today is monday
+the class is great
